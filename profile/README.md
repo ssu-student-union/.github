@@ -3,3 +3,4 @@
 > 총학생회 및 다양한 자치기구와 협력하여 **학생 중심의 서비스를 개발하고 운영**합니다.
 
 ### 개발 및 운영 중인 서비스
+[서비스 목록](https://www.notion.so/ssu-it/2dd4a8d2ea6c81988705eb4a18559b52?v=2dd4a8d2ea6c8182844b000c89ef92d1&source=copy_link)
